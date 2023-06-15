@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E96BDC5B-CA26-4A00-B3BF-F11C9B0E8E75}|Default">
+  <MonoDevelop.Ide.ItemProperties.Monte__Karlo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Monte_Karlo/Program.cs">
+    <Files>
+      <File FileName="Monte_Karlo/Program.cs" Line="238" Column="1" />
+      <File FileName="Monte_Karlo/Properties/ConsoleProgressBar.cs" Line="99" Column="79" />
+      <File FileName="Monte_Karlo/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="packages/MathParser.org-mXparser.4.3.3/readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Monte_Karlo" expanded="True">
+            <Node name="Monte_Karlo" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

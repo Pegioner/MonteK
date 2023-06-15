@@ -1,0 +1,7 @@
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Release\Monte_Karlo.exe.config
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Release\Monte_Karlo.exe
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Release\MathParser.org-mXparser.dll
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Release\Monte_Karlo.csprojAssemblyReference.cache
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Release\Monte_Karlo.csproj.CoreCompileInputs.cache
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Release\Monte_Karlo.csproj.CopyComplete
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Release\Monte_Karlo.exe

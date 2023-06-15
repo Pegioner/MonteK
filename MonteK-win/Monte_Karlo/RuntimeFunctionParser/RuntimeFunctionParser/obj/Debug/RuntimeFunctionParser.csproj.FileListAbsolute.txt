@@ -1,0 +1,6 @@
+/Users/pegioner/Projects/RuntimeFunctionParser/RuntimeFunctionParser/bin/Debug/RuntimeFunctionParser.dll
+/Users/pegioner/Projects/RuntimeFunctionParser/RuntimeFunctionParser/bin/Debug/RuntimeFunctionParser.pdb
+/Users/pegioner/Projects/RuntimeFunctionParser/RuntimeFunctionParser/obj/Debug/RuntimeFunctionParser.csprojAssemblyReference.cache
+/Users/pegioner/Projects/RuntimeFunctionParser/RuntimeFunctionParser/obj/Debug/RuntimeFunctionParser.csproj.CoreCompileInputs.cache
+/Users/pegioner/Projects/RuntimeFunctionParser/RuntimeFunctionParser/obj/Debug/RuntimeFunctionParser.dll
+/Users/pegioner/Projects/RuntimeFunctionParser/RuntimeFunctionParser/obj/Debug/RuntimeFunctionParser.pdb

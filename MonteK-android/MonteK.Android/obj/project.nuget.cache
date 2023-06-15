@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "cVMvSLiqbftEZIzxvXTsee6NPp3Jh9fgInOd675DRT6kPztG1Ne+xjbcCHxu8cO+AfQaoz4S1ULsAFHNoQXGMQ==",
+  "success": true,
+  "projectFilePath": "/Users/pegioner/Projects/MonteK/MonteK.Android/MonteK.Android.csproj",
+  "expectedPackageFiles": [
+    "/Users/pegioner/.nuget/packages/mathparser.org-mxparser/4.3.3/mathparser.org-mxparser.4.3.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.arch.lifecycle.common/1.1.1.3/xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.arch.lifecycle.runtime/1.1.1.3/xamarin.android.arch.lifecycle.runtime.1.1.1.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.animated.vector.drawable/28.0.0.3/xamarin.android.support.animated.vector.drawable.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.annotations/28.0.0.3/xamarin.android.support.annotations.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.compat/28.0.0.3/xamarin.android.support.compat.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.core.ui/28.0.0.3/xamarin.android.support.core.ui.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.core.utils/28.0.0.3/xamarin.android.support.core.utils.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.customtabs/28.0.0.3/xamarin.android.support.customtabs.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.design/28.0.0.3/xamarin.android.support.design.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.fragment/28.0.0.3/xamarin.android.support.fragment.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.media.compat/28.0.0.3/xamarin.android.support.media.compat.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.transition/28.0.0.3/xamarin.android.support.transition.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.v4/28.0.0.3/xamarin.android.support.v4.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.v7.appcompat/28.0.0.3/xamarin.android.support.v7.appcompat.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.v7.cardview/28.0.0.3/xamarin.android.support.v7.cardview.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.v7.mediarouter/28.0.0.3/xamarin.android.support.v7.mediarouter.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.v7.palette/28.0.0.3/xamarin.android.support.v7.palette.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.v7.recyclerview/28.0.0.3/xamarin.android.support.v7.recyclerview.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.android.support.vector.drawable/28.0.0.3/xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

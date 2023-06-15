@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pegioner/Projects/MonteK/MonteK.UITests/MonteK.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/pegioner/Projects/MonteK/MonteK.UITests/MonteK.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pegioner/Projects/MonteK/MonteK.UITests/MonteK.UITests.csproj",
+        "projectName": "MonteK.UITests",
+        "projectPath": "/Users/pegioner/Projects/MonteK/MonteK.UITests/MonteK.UITests.csproj",
+        "packagesPath": "/Users/pegioner/.nuget/packages/",
+        "outputPath": "/Users/pegioner/Projects/MonteK/MonteK.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/pegioner/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

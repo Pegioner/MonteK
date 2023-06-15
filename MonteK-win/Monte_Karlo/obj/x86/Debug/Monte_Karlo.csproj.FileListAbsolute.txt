@@ -1,0 +1,32 @@
+/Users/pegioner/Projects/Monte_Karlo/Monte_Karlo/bin/Debug/Monte_Karlo.exe
+/Users/pegioner/Projects/Monte_Karlo/Monte_Karlo/bin/Debug/Monte_Karlo.pdb
+/Users/pegioner/Projects/Monte_Karlo/Monte_Karlo/obj/x86/Debug/Monte_Karlo.csprojAssemblyReference.cache
+/Users/pegioner/Projects/Monte_Karlo/Monte_Karlo/obj/x86/Debug/Monte_Karlo.csproj.CoreCompileInputs.cache
+/Users/pegioner/Projects/Monte_Karlo/Monte_Karlo/obj/x86/Debug/Monte_Karlo.exe
+/Users/pegioner/Projects/Monte_Karlo/Monte_Karlo/obj/x86/Debug/Monte_Karlo.pdb
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/obj/x86/Debug/Monte_Karlo.csprojAssemblyReference.cache
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/obj/x86/Debug/Monte_Karlo.csproj.CoreCompileInputs.cache
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/obj/x86/Debug/Monte_Karlo.exe
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/obj/x86/Debug/Monte_Karlo.pdb
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/bin/Debug/Monte_Karlo.exe
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/bin/Debug/Monte_Karlo.pdb
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/bin/Debug/MathParser.org-mXparser.dll
+/Users/pegioner/Projects/Monte_Karlo — копия/Monte_Karlo/obj/x86/Debug/Monte_Karlo.csproj.CopyComplete
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\bin\Debug\Monte_Karlo.exe
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\bin\Debug\Monte_Karlo.pdb
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\obj\x86\Debug\Monte_Karlo.csprojAssemblyReference.cache
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\obj\x86\Debug\Monte_Karlo.csproj.CoreCompileInputs.cache
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\obj\x86\Debug\Monte_Karlo.csproj.CopyComplete
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\obj\x86\Debug\Monte_Karlo.exe
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\obj\x86\Debug\Monte_Karlo.pdb
+C:\Users\Pegioner\Desktop\Monte_Karlo — копия\Monte_Karlo\bin\Debug\Monte_Karlo.exe.config
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Debug\Monte_Karlo.exe.config
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Debug\Monte_Karlo.exe
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Debug\Monte_Karlo.pdb
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Debug\Monte_Karlo.csprojAssemblyReference.cache
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Debug\Monte_Karlo.csproj.CoreCompileInputs.cache
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Debug\Monte_Karlo.csproj.CopyComplete
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Debug\Monte_Karlo.exe
+C:\Users\Pegioner\Desktop\Monte_Karlo — win\Monte_Karlo\obj\x86\Debug\Monte_Karlo.pdb

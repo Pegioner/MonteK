@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MonteK" x:Class="MonteK.MainPage" Title="MonteK"> 
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Entry x:Name="EntryF" Placeholder="Введите функцию"/>
+        <Entry x:Name="EntryD" Placeholder="Нижний предел"/>
+        <Entry x:Name="EntryU" Placeholder="Верхний предел"/>
+        <Entry x:Name="EntryN" Placeholder="Количество точек"/>
+        <ProgressBar x:Name="PB1" VerticalOptions="CenterAndExpand"/>
+        <Button Text="Рассчитать" Clicked="Button_Click"/>
+        <Label x:Name="Label1" Text="Интеграл = " VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+</ContentPage>

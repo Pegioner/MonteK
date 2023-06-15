@@ -1,0 +1,11 @@
+/Users/pegioner/Projects/MonteK/MonteK/bin/Debug/netstandard2.0/MonteK.deps.json
+/Users/pegioner/Projects/MonteK/MonteK/bin/Debug/netstandard2.0/MonteK.dll
+/Users/pegioner/Projects/MonteK/MonteK/bin/Debug/netstandard2.0/MonteK.pdb
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/MonteK.AssemblyInfoInputs.cache
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/MonteK.AssemblyInfo.cs
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/MonteK.dll
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/MonteK.pdb
+/Users/pegioner/Projects/MonteK/MonteK/obj/Debug/netstandard2.0/MonteK.csprojAssemblyReference.cache

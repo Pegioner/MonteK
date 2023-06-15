@@ -1,0 +1,5 @@
+/Users/pegioner/Projects/MonteK/MonteK.UITests/bin/Release/MonteK.UITests.dll
+/Users/pegioner/Projects/MonteK/MonteK.UITests/bin/Release/nunit.framework.dll
+/Users/pegioner/Projects/MonteK/MonteK.UITests/bin/Release/Xamarin.UITest.dll
+/Users/pegioner/Projects/MonteK/MonteK.UITests/obj/Release/MonteK.UITests.csproj.CopyComplete
+/Users/pegioner/Projects/MonteK/MonteK.UITests/obj/Release/MonteK.UITests.dll

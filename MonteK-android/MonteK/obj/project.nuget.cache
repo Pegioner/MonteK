@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+3tyrs6Z3xzQ25xmPRVT0lt673f60yGvbarj0FOwo6JWJQcN8H+x20fvHuTaviJOqWgF2SeRygKUxibMpRC8g==",
+  "success": true,
+  "projectFilePath": "/Users/pegioner/Projects/MonteK/MonteK/MonteK.csproj",
+  "expectedPackageFiles": [
+    "/Users/pegioner/.nuget/packages/mathparser.org-mxparser/4.3.3/mathparser.org-mxparser.4.3.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/pegioner/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

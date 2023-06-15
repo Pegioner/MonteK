@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RuntimeFunctionParser/Parser.cs">
+    <Files>
+      <File FileName="RuntimeFunctionParser/Parser.cs" Line="16" Column="14" />
+      <File FileName="RuntimeFunctionParser/Function.cs" Line="60" Column="2" />
+      <File FileName="RuntimeFunctionParser/ParserException.cs" Line="25" Column="2" />
+      <File FileName="RuntimeFunctionParser/Enums.cs" Line="26" Column="1" />
+      <File FileName="RuntimeFunctionParser/Derivative.cs" Line="117" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RuntimeFunctionParser" expanded="True">
+            <Node name="RuntimeFunctionParser" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ParserException.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
